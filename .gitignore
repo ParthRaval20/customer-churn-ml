@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+*.pyc
+
+# Generated artifacts
+data/processed/
+models/
+reports/
+
+# Jupyter
+.ipynb_checkpoints/
+

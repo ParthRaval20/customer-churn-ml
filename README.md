@@ -65,7 +65,7 @@ Modular production-level code with reusable pipelines.
 ## 🔧 How to Run (GitHub Ready)
 
 1. **Clone the repository**
-   - `git clone https://github.com/ParthRaval20/customer-churn-ml/`
+   - `git clone https: github.com/ParthRaval20/customer-churn-ml`
    - `cd customer-churn-ml`
 2. **Create and activate a virtual environment (recommended)**
    - `python -m venv .venv`
